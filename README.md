@@ -1,6 +1,6 @@
 ![Data Analytics Header](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
 
-# Hello, I'm Hassan(https://www.linkedin.com/in/your-profile/) 👋
+# Hello, I'm Hassan(https://www.linkedin.com/in/muhammad-hassan-nust/) 👋
 
 ![Typing Animation](https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif)
 
