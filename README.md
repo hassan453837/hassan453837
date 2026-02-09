@@ -2,8 +2,6 @@
 
 # Hello, I'm Hassan👋
 
-![Typing Animation](https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif)
-
 ### About Me
 
 I'm a **Data Analyst** passionate about transforming raw data into actionable insights that drive business decisions. I leverage my expertise in data visualization, statistical analysis, and business intelligence to help organizations uncover patterns, optimize processes, and make data-driven decisions.
