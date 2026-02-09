@@ -67,20 +67,6 @@ My goal is to leverage data-driven insights to solve complex business problems, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan453837&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan453837&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hassan453837&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 ## 📈 Contribution Graph
 
 [![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassan453837&theme=react-dark)](https://github.com/hassan453837)
